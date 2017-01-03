@@ -1,0 +1,32 @@
+body {
+	display: flex;
+	flex-direction: row;
+}
+
+
+#colone1 {
+	background-color: #0000FF;
+	width: 20%;
+	height: 900px;
+}
+
+#colone2 {
+	background-color: #FFFFFF;
+	width: 65%;
+	height: 900px;
+}
+
+#colone3 {
+	background-color: #FF0000;
+	width: 15%;
+	height: 900px;
+}
+
+p {
+	text-align: center;
+}
+
+.image {
+	height: 60px;
+	width: 60px;
+}

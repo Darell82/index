@@ -1,0 +1,43 @@
+body {
+	background-color: #FFFFFF;
+	display: flex;
+	flex-direction: row;
+}
+
+#tout {
+	display: flex;
+	flex-direction: column;
+}
+
+#colone1 {
+	background-color: #008080;
+	width: 200px;
+}
+
+
+#colone2 {
+	background-color: red;
+	height: 150px;
+	width: 900px;
+}
+
+#colone3 {
+	background-color: green;
+	width: 900px;
+	height: 450px;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 50px;
+}
+
+#metallica {
+	width: 100px;
+	height: 100px;
+}
+
+#metallica1 {
+	width: 100px;
+	height: 100px;
+}

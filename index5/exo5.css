@@ -1,0 +1,22 @@
+div {
+	background-color: green;
+	height: 800px;
+	width: 800px;
+}
+
+p {
+	font-size: 100px;
+}
+
+#img1 {
+	max-width: 200px;
+	max-height: 200px;
+	float: left;
+}
+
+#img2 {
+	max-width: 200px;
+	max-height: 200px;
+	float: right;
+}
+
